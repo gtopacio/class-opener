@@ -1,0 +1,21 @@
+{
+  "name": "zoom-opener",
+  "version": "1.0.0",
+  "description": "Opens Zoom Links Based on passed keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "class": "./index.js"
+  },
+  "keywords": [
+    "Zoom"
+  ],
+  "author": "Geoff Aaron Topacio",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^8.4.0",
+    "sqlite3": "^5.0.9"
+  }
+}
