@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "class": "./index.js"
+    "class": "./index.js",
+    "rjspt": "./index.js"
   },
   "keywords": [
     "Zoom"
